@@ -1,0 +1,13 @@
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\bin\Debug\CityDB.mdf
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\bin\Debug\CityDB_log.ldf
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\bin\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.exe.config
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\bin\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.exe
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\bin\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.pdb
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton_CPT_206_LAB_2_PopulationDatabase.Form1.resources
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton_CPT_206_LAB_2_PopulationDatabase.Properties.Resources.resources
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.exe
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton-CPT-206-LAB-2-PopulationDatabase.pdb
+C:\Users\magic\source\repos\KCrumpton-CPT-206-LAB-2-PopulationDatabase\obj\Debug\KCrumpton_CPT_206_LAB_2_PopulationDatabase.Details.resources
